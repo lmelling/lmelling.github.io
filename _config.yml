@@ -1,0 +1,11 @@
+# Site settings
+title: L.D. Melling
+email: ldm@ldmelling.com
+description: Website of L.D. Melling
+baseurl: "" 
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
