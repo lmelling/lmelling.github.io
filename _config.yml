@@ -2,10 +2,13 @@
 title: L.D. Melling
 email: ldm@ldmelling.com
 description: Website of L.D. Melling
-baseurl: "" 
+baseurl: ""
 
 # Build settings
 markdown: kramdown
+include:
+  - _pages
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md

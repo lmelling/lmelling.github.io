@@ -1,0 +1,47 @@
+experience:
+  - company: Opower
+    title: Implementation Engineer
+    location: San Francisco, CA
+    start_date: 2014
+    end_date: 2016
+    description: Served as technical point of contact for utility company clients using Opower's behavioral energy efficiency platform. Worked with both client-facing and engineering teams to acquire and integrate data, configure the platform, and help define requirements for new features and products.
+    accomplishments:
+      - Performed data investigations and analysis using MySQL.
+      - Developed and employed Ruby gems to interface with databases and web services.
+      - Successfully launched two alpha products and helped prioritize feature requests.
+    skills:
+      - MySQL
+      - Ruby
+      - GitHub
+
+  - company: Institute for Defense Analyses
+    title: Research Associate
+    location: Alexandria, VA
+    start_date: 2011
+    end_date: 2013
+    description: Performed scientific modelling and data analysis at non-profit, federally-funded defense research organization.
+    accomplishments:
+      - Conducted Monte Carlo analysis of atmospheric transport and dispersion model outcomes.
+      - Wrote R scripts to prepare inputs and post-process outputs into products for publication.
+      - Provided descriptive and quantitative summaries for formal reports.
+    skills:
+      - R
+
+education:
+  - school: University of Oregon
+    degree_year: 2003
+    degree_type: BA
+    degree_field: Mathematics and Physics
+
+  - school: UC Santa Barbara
+    degree_year: 2006
+    degree_type: MA
+    degree_field: Physics
+
+  - school: University of Utrecht
+    degree_year: 2007
+    degree_type: Certificate
+    degree_field: Physics of the Climate System
+
+publications:
+  
