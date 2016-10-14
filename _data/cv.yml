@@ -40,34 +40,24 @@ education:
 publications:
 
 skills:
-  Languages:
-    - title: IDL
-      years: 2
-      color: grey
-    - title: R
-      years: 2
-      color: blue
-    - title: Ruby
-      years: 2
-      color: red
-    - title: Python
-      years: 1
-      color: yellow
-  Operating Systems:
-    - title: Mac OS
-      years: 4
-      color: blue
-    - title: Linux
-      years: 2
-      color: yellow
-  Version Control:
-    - title: Subversion
-      years: 2
-      color: blue
-    - title: Git/GitHub
-      years: 3
-      color: grey
-  Databases:
-    - title: MySQL
-      years: 2
-      color: orange
+  - title: Linux/Mac OS
+    years: 4
+    color: blue
+  - title: Git/GitHub
+    years: 3
+    color: grey
+  - title: MySQL
+    years: 2
+    color: orange
+  - title: R
+    years: 2
+    color: blue
+  - title: Ruby
+    years: 2
+    color: red
+  - title: IDL
+    years: 2
+    color: blue
+  - title: Python
+    years: 1
+    color: yellow
