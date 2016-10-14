@@ -9,10 +9,6 @@ experience:
       - Performed data investigations and analysis using MySQL.
       - Developed and employed Ruby gems to interface with databases and web services.
       - Successfully launched two alpha products and helped prioritize feature requests.
-    skills:
-      - MySQL
-      - Ruby
-      - GitHub
 
   - company: Institute for Defense Analyses
     title: Research Associate
@@ -24,8 +20,6 @@ experience:
       - Conducted Monte Carlo analysis of atmospheric transport and dispersion model outcomes.
       - Wrote R scripts to prepare inputs and post-process outputs into products for publication.
       - Provided descriptive and quantitative summaries for formal reports.
-    skills:
-      - R
 
 education:
   - school: University of Oregon
@@ -44,4 +38,36 @@ education:
     degree_field: Physics of the Climate System
 
 publications:
-  
+
+skills:
+  Languages:
+    - title: IDL
+      years: 2
+      color: grey
+    - title: R
+      years: 2
+      color: blue
+    - title: Ruby
+      years: 2
+      color: red
+    - title: Python
+      years: 1
+      color: yellow
+  Operating Systems:
+    - title: Mac OS
+      years: 4
+      color: blue
+    - title: Linux
+      years: 2
+      color: yellow
+  Version Control:
+    - title: Subversion
+      years: 2
+      color: blue
+    - title: Git/GitHub
+      years: 3
+      color: grey
+  Databases:
+    - title: MySQL
+      years: 2
+      color: orange
