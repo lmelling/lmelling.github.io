@@ -14,11 +14,6 @@
       </span>
 
       <div class="trigger">
-        {% for p in site.pages %}
-          {% if p.title %}
-            <a class="page-link" href="{{ p.url | prepend: site.baseurl}}">{{ p.title | escape }}</a>
-          {% endif %}
-        {% endfor %}
       </div>
     </nav>
 

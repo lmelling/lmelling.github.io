@@ -5,18 +5,16 @@
 
 // Import partials from the `minima` theme.
 @import "minima";
+@import "bootstrap";
+
 
 // Override link text-decoration on hover
 a {
-  color: $brand-color;
-  text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
-
   &:hover {
-    color: $text-color;
     text-decoration: none;
   }
+}
+
+blockquote {
+  font-style: normal;
 }
