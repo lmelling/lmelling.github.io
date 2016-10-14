@@ -21,6 +21,17 @@ experience:
       - Wrote R scripts to prepare inputs and post-process outputs into products for publication.
       - Provided descriptive and quantitative summaries for formal reports.
 
+  - company: US Department of Agriculture
+    title: Staff Assistant, Office of the Secretary
+    location: Washington, DC
+    start_date: 2009
+    end_date: 2011
+    description: Coordinated implementation of sustainability agreement with the Innovation Center for US Dairy and joint USDA-EPA AgStar program to promote on-farm energy production and energy efficiency.
+    accomplishments:
+      - Compiled weekly and ad-hoc project status reports for the White House.
+      - Automated tasks and improved efficiency via Visual Basic macros.
+      - Earned award recognizing excellence in service to USDA's mission.
+
 education:
   - school: University of Oregon
     degree_year: 2003
@@ -37,8 +48,6 @@ education:
     degree_type: Certificate
     degree_field: Physics of the Climate System
 
-publications:
-
 skills:
   - title: Linux/Mac OS
     years: 4
@@ -54,3 +63,5 @@ skills:
     years: 2
   - title: Python
     years: 1
+
+publications:
