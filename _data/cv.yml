@@ -42,22 +42,15 @@ publications:
 skills:
   - title: Linux/Mac OS
     years: 4
-    color: blue
   - title: Git/GitHub
     years: 3
-    color: grey
   - title: MySQL
     years: 2
-    color: orange
   - title: R
     years: 2
-    color: blue
   - title: Ruby
     years: 2
-    color: red
   - title: IDL
     years: 2
-    color: blue
   - title: Python
     years: 1
-    color: yellow
