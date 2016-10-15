@@ -6,7 +6,7 @@
       <b>{{ edu.degree_year }}</b>
     </div>
     <div class="col-md-8">
-      <b>{{ edu.degree_type }} in {{ edu.degree_field }}</b><br>
+      <b>{{ edu.degree_type }}, {{ edu.degree_field }}</b><br>
       {{ edu.school }}
     </div>
   </div>
