@@ -3,7 +3,7 @@ experience:
     title: Associate Scientist II
     location: Boulder, CO
     start_date: 2016
-    end_date: @NOW
+    end_date: \@NOW
 
   - company: Opower
     title: Implementation Engineer
