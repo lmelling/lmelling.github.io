@@ -4,10 +4,10 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-{% include skills.md %}
-
 {% include experience.md %}
 
 {% include education.md %}
+
+{% include skills.md %}
 
 {% include recs.md %}
