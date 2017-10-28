@@ -1,5 +1,5 @@
 ## <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
-{% assign experience = site.data.cv.experience | sort: 'end_date' | reverse %}
+{% assign experience = site.data.cv.experience %}
 {% for exp in experience %}
   <div class="row">
     <div class="col-md-4 text-right">
